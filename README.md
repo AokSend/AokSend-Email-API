@@ -1,6 +1,6 @@
 # AokSend邮件API邮件发送接口
 
-<img src="[http://baidu.com/pic/doge.png](https://repository-images.githubusercontent.com/766794885/6c70798d-f0d3-4b25-a4eb-9f29989a1327)">
+[<img src="https://gitee.com/aoksend/AokSend/raw/master/pic/a.png">](https://www.aoksend.com)
 
 AokSend官网：[ **https://www.aoksend.com** ](https://www.aoksend.com)
 
@@ -55,7 +55,7 @@ Q: AokSend邮件发送接口的进箱率多少，会进到垃圾箱吗？
 A: 对于老域名，配置完域名解析之后，一般可以直接进箱，或者有些老域名可能需要预热1-5天后进箱。对于新域名，一般在预热3-5天后，进箱率会从逐步提升到20%、40%、60%、80%，慢慢提升到95%-98%。一般经过3-10天的发送积累，送达率可以逐步达到99%及以上（具体时间与发送量有关）。值得注意的是，一般新域名没有权重也没有发送记录，因此无法过各个邮局的白名单，导致发送邮件可能会进入垃圾箱，这种现象是正常的，而且是暂时的。只要发送的是正规的触发式邮件，连续发送几天之后，若邮件没有被举报为垃圾邮件，那么邮件内容就会被逐渐被识别成正规邮件，并逐渐被投递到收件箱中。随着后续邮件发送的稳定，送达率和进箱率都会越来越高。请客户不用担心。
 
 
-
+[<img src="https://gitee.com/aoksend/AokSend/raw/master/pic/aa.jpg">](https://www.aoksend.com)
 
 #### 版权
 
