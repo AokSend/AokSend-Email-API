@@ -57,5 +57,5 @@ A: 对于老域名，配置完域名解析之后，一般可以直接进箱，�
 
 #### 版权
 
-1.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-2.  AokSend邮件API服务 [www.aoksend.com](https://www.aoksend.com)
+1.  AokSend邮件API服务 [www.aoksend.com](https://www.aoksend.com)
+2.  Gitee 官方博客 [github.com](https://github.com)
